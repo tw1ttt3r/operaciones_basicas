@@ -1,6 +1,6 @@
 # operaciones_basicas
 
-A new Flutter project.
+En una pantalla agrega las operaciones básicas: suma, resta, multiplicación, división. No olvides aplicar las leyes de signos.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# APP
+![app](images/calculadora.png)
